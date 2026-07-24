@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadav Nir (NN-7)</h1>
-- 💡 I’m currently working on [ISKL-V](https://github.com/NN-7/ISKL-V)
+- 💡 I’m currently working on ISKL-V
 
 - 💼 My portfolio can be found [here](https://nn-7.github.io/portfolio/)
 
