@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://avatars.githubusercontent.com/u/73201814?v=4"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 📍 I'm from Israel 🇮🇱 & Canada 🇨🇦 <br>- 💡 I’m working on ISKL-V<br>- 💼 My portfolio can be found here<br>- ✉️ You can reach me at nn.crimson@gmail.com<br>- 🗣️ I speak 🇨🇦 Engish, 🇮🇱 Hebrew, 🇪🇸 Spanish, 🇱🇧 Arabic</p>
+<p data-importer="text" align="left">- 📍 I'm from Israel 🇮🇱 & Canada 🇨🇦 <br>- 💡 I’m working on <a href="https://github.com/NN-7/ISKL-V">ISKL-V</a> <br>- 💼 My portfolio can be found <a href="https://nn-7.github.io/portfolio/">here</a> <br>- ✉️ You can reach me at <a href="mailto:nn.crimson@gmail.com">nn.crimson@gmail.com</a> <br>- 🗣️ I speak 🇨🇦 Engish, 🇮🇱 Hebrew, 🇪🇸 Spanish, 🇱🇧 Arabic</p>
 
 ###
 
